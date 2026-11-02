@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Affan Ali! 👋
 
-<!--
-**AffanAli-dev/AffanAli-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst | Computer Science Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about data analytics and transforming raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Data Analytics
+- 🐍 Exploring Python, NumPy and Pandas
+- 📈 Interested in Data Visualization
+- 🗄️ Learning SQL, Excel and Power BI
+- 🚀 Building projects and improving my analytical skills
+
+🛠️ Tools & Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- SQL
+- Microsoft Excel
+- Power BI
+
+📚 My Learning Goals
+
+- Strengthen my data analysis skills
+- Work on real-world datasets
+- Create interactive dashboards
+- Build a strong Data Analytics portfolio
+
+📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mohd-affan-ali-404621387?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+⭐ Thanks for visiting my profile!
